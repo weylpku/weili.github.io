@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1.**Li Wei**, Lu Zitong, Jia Jinzhu, Xie Min, and Geng Zhi (2023). Retrospective causal inference with multiple effect variables. Biometrika, accepted
+1. **Li Wei**, Lu Zitong, Jia Jinzhu, Xie Min, and Geng Zhi (2023). Retrospective causal inference with multiple effect variables. Biometrika, accepted
 1. **Li Wei**, Luo Shanshan, He Yangbo, and Geng Zhi (2023). Subgroup analysis using Bernoulli-gated hierarchical mixtures of experts models. Statistics in Medicine, accepted.
 1. **Li Wei**, Miao Wang, and Tchetgen Tchetgen Eric (2023). Nonparametric inference about mean functionals of nonignorable nonresponse data without identifying the joint distribution. Journal of the Royal Statistical Society: Series B, 85(3): 913-935.
 1. Lu Zitong, Geng Zhi, **Li Wei**, Zhu Shengyu and Jia Jinzhu (2023). Evaluating causes of effects by posterior effects of causes. Biometrika, 110(2): 449-465.
@@ -20,5 +20,6 @@ author_profile: true
 1. Sheng Elisa, **Li Wei**, and Zhou Xiao-Hua (2019). Estimating causal effects of treatment in RCTs with provider and subject noncompliance. Statistics in Medicine, 38: 738-750.
 1. **Li Wei**, Jiang Zhichao, Geng Zhi, and Zhou Xiao-Hua (2018). Identification of causal effects with latent confounding and classical additive errors in treatment. Biometrical Journal, 60: 498-515.
 1. **Li Wei** and Zhou Xiao-Hua (2017). Identifiability and estimation of causal mediation effects with missing data. Statistics in Medicine, 36(25): 3948-3965.
+($$^\dagger$$ corresponding authors.)
 
-($$^\dagger$$ corresponding author)
+
