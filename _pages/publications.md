@@ -20,8 +20,6 @@ author_profile: true
 1. Sheng Elisa, **Li Wei**, and Zhou Xiao-Hua (2019). Estimating causal effects of treatment in RCTs with provider and subject noncompliance. Statistics in Medicine, 38: 738-750.([paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8012))
 1. **Li Wei**, Jiang Zhichao, Geng Zhi, and Zhou Xiao-Hua (2018). Identification of causal effects with latent confounding and classical additive errors in treatment. Biometrical Journal, 60: 498-515.([paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700048))
 1. **Li Wei** and Zhou Xiao-Hua (2017). Identifiability and estimation of causal mediation effects with missing data. Statistics in Medicine, 36(25): 3948-3965.([paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7413))
-
-
-($$^\dagger$$ corresponding authors.)
+   ($$^\dagger$$ corresponding authors.)
 
 
