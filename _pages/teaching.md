@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-|   Semester     |    Course  Type   | Course| 
+|   Semester     |    Course  Type   | Course | 
 | -------------  |-------------      |-------------| 
 | 2021 Fall, 2022 Fall, 2023 Fall   |  Postgraduate Course    | Biostatistics| 
 | 2022 Fall, 2023 Fall   |  Postgraduate Course  | Causal Inference|    
