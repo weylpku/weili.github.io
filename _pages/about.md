@@ -14,7 +14,12 @@ Previously, I was a postdoctoral research fellow at [Peking University](https://
 
 Reaserch Interests
 ======
-My research interests include causal inference, missing data, measurement errors, high-dimensional data, Biostatistics, etc.
+My research interests include <br>
+*causal inference 
+*missing data
+*measurement errors
+*high-dimensional data
+*Biostatistics, etc.
 
 Prospective Students
 =====
