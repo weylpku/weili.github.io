@@ -4,21 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-1. A. Yiu, **E. Fong**, C. Holmes, and J. Rousseau, “Semiparametric posterior corrections,” *arXiv:2306.06059*. 2023.
-
-1. L. E. Dang, **E. Fong**, J. M. Tarp, K. K. B. Clemmensen, H. Ravn, K. Kvist, J. B. Buse, M. van der Laan, and M. Petersen, “A causal roadmap for hybrid randomized and real-world data designs: Case study of Semaglutide and cardiovascular outcomes,” *arXiv:2305.07647*. 2023.
-1. S. Ghalebikesabi, C. Holmes, **E. Fong**, and B. Lehmann, “Quasi-Bayesian nonparametric density estimation via autoregressive predictive updates,” *39th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2023. Spotlight.
-1. H. Lee, E. Yun, **E. Fong**, and J. Lee, “Martingale posterior neural processes,” *11th International Conference on Learning Representations (ICLR)*, 2023. Notable top 25%.
-1. **E. Fong**, C. Holmes, and S. G. Walker, “Martingale posterior distributions,” *To appear at the Journal of the Royal Statistical Society: Series B (with discussion)*, 2023.
-1. A. Yiu, **E. Fong**, S. Walker, and C. Holmes, “Causal predictive inference and target trial emulation,” *arXiv:2207.12479*, 2022.
-1. Z. Tsangalidou, **E. Fong**, J. Sundgaard, T. Abrahamsen, and K. Kvist, “Multimodal deep transfer learning for the analysis of optical coherence tomography scans and retinal fundus photographs,” *NeurIPS 2022 Workshop on Learning Meaningful Representations of Life*, 2022.
-1. **E. Fong**, “The predictive view of Bayesian inference,” PhD thesis, University of Oxford, 2022.
-1. **E. Fong** and B. Lehmann, “A Predictive Approach to Bayesian Nonparametric Survival Analysis,” *25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2022.
-1. **E. Fong** and C. Holmes, “Conformal Bayesian Computation,” in *Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS)*, 2021.
-1. **E. Fong** and C. Holmes, “On the
-marginal likelihood and cross-validation,” *Biometrika*, vol. 107, no. 2, pp. 489–496, 2020.
-1. **E. Fong**, S. Lyddon, and C. Holmes, “Scalable Nonparametric Sampling from Multimodal
-Posteriors with the Posterior Bootstrap,” in *Proceedings of the
-36th International Conference on Machine
-Learning (ICML), 2019*. Oral (long).
+1.**Li Wei**, Lu Zitong, Jia Jinzhu, Xie Min, and Geng Zhi (2023). Retrospective causal inference with multiple effect variables. Biometrika, accepted
+1. **Li Wei**, Luo Shanshan, He Yangbo, and Geng Zhi (2023). Subgroup analysis using Bernoulli-gated hierarchical mixtures of experts models. Statistics in Medicine, accepted.
+1. **Li Wei**, Miao Wang, and Tchetgen Tchetgen Eric (2023). Nonparametric inference about mean functionals of nonignorable nonresponse data without identifying the joint distribution. Journal of the Royal Statistical Society: Series B, 85(3): 913-935.
+1. Lu Zitong, Geng Zhi, **Li Wei**, Zhu Shengyu and Jia Jinzhu (2023). Evaluating causes of effects by posterior effects of causes. Biometrika, 110(2): 449-465.
+1. Zhang Jeffrey, **Li Wei**, Miao Wang, and Tchetgen Tchetgen Eric (2023). Proximal causal inference without uniqueness assumptions. Statistics & Probability Letters, 198: 109836.
+1. Luo Shanshan, **Li Wei** and He Yangbo (2023). Causal inference with outcomes truncated by death in multiarm studies. Biometrics, 79(1): 502-513.
+1.  Miao Wang, **Li Wei**, Hu Wenjie, Wang Ruoyu, Geng Zhi (2022). Invited Commentary: Estimation and bounds under data fusion. American Journal of Epidemiology, 191(4): 674-678.
+1. Liu Lan, **Li Wei**, Su Zhihua, Cook Dennis, Vizioli Luca and Yacoub Essa (2022). Efficient estimation via envelope chain in MRI-based studies. Scandinavian Journal of Statistics, 49(2): 481-501.
+1. **Li Wei**, Geng Zhi and Zhou Xiao-Hua (2021). Causal mediation analysis with sure outcomes of random events model. Statistics in Medicine, 40(17): 3975-3989.
+1. **Li Wei**, Gu Yuwen, and Liu Lan (2020). Demystifying a class of multiply robust estimators. Biometrika, 107(4): 919-933.
+1. Fan Yanqin, Han Fang, **Li Wei** and Zhou Xiao-Hua (alphabetical order) (2020). On rank estimators in increasing dimensions. Journal of Econometrics, 214(2): 379-412.
+1. **Li Wei** and Lederer Johannes (2019). Tuning parameter calibration for ι1-regularized logistic regression. Journal of Statistical Planning and Inference, 202: 80-98.
+1. Sheng Elisa, **Li Wei**, and Zhou Xiao-Hua (2019). Estimating causal effects of treatment in RCTs with provider and subject noncompliance. Statistics in Medicine, 38: 738-750.
+1. **Li Wei**, Jiang Zhichao, Geng Zhi, and Zhou Xiao-Hua (2018). Identification of causal effects with latent confounding and classical additive errors in treatment. Biometrical Journal, 60: 498-515.
+1. **Li Wei** and Zhou Xiao-Hua (2017). Identifiability and estimation of causal mediation effects with missing data. Statistics in Medicine, 36(25): 3948-3965.
