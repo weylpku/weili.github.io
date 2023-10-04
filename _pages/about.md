@@ -15,7 +15,7 @@ Previously, I was a postdoctoral research fellow at [Peking University](https://
 Education
 ======
 * 2013.9-2018.6, Ph.D., [School of Mathematical Sciences](https://www.math.pku.edu.cn), [Peking University](https://www.pku.edu.cn//).
-* 2015.9-2016.9, Visiting scholar, [Department of Biostatistics, University of Washington, Seattle, USA](https://www.biostat.washington.edu).
+* 2015.9-2016.9, Visiting Scholar, [Department of Biostatistics, University of Washington, Seattle, USA](https://www.biostat.washington.edu).
 * 2009.9-2013.6, B.S., [School of Mathematical Sciences](https://math.nankai.edu.cn), [Nankai University](https://www.nankai.edu.cn)
 
 
