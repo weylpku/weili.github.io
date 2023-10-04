@@ -26,7 +26,7 @@ My research interests include
 * Missing Data
 * Measurement Errors
 * High-Dimensional Data
-* Biostatistics, etc.
+* Biostatistics, etc. 
 
 Prospective Students
 =====
