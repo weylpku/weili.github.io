@@ -11,4 +11,8 @@ author_profile: true
 * National Key Project in Statistical Science Research, 2022-2024, Hosted, Under Research.
 * National Natural Science Foundation Youth Program, 2022-2024, Hosted, Under Research.
 * Renmin University of China New Teacher Initiation Fund Project, 2021-2023, Hosted, Under Research.
-* General Program of China Postdoctoral Science Foundation, 2019-2020, Hosted, Closed
+* General Program of China Postdoctoral Science Foundation, 2019-2020, Hosted, Closed. <br><br>
+
+**Awards**
+* Outstanding Young Scholar B Post at Renmin University of China (from 2020 to present).
+* Outstanding Research Achievement Award of Renmin University of China (2021)
